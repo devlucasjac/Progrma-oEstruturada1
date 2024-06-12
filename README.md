@@ -1,6 +1,6 @@
 # Exercícios de Programação Estruturada
 
-Este repositório contém os exercícios concluídos da disciplina de Programação Estruturada, parte do currículo do curso de Análise e Desenvolvimento de Sistemas da [sua universidade ou faculdade].
+Este repositório contém os exercícios concluídos da disciplina de Programação Estruturada, assim como codigo apresentado em aulas, parte do currículo do curso de Análise e Desenvolvimento de Sistemas da [sua universidade ou faculdade].
 
 ## Descrição
 
