@@ -32,7 +32,7 @@ int main(){
         }
 
         i++;
-    }    
+    }
 
     printf("Números digitados: %d\n",i);
     printf("Media de pares: %.2f\n",(float)pares/i);
